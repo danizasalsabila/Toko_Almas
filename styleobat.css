@@ -1,0 +1,71 @@
+.navbar-brand{
+	font-size: 24px;
+}
+body {
+	padding: 0;
+	margin: 0;
+	background-color: Beige;
+}
+
+p {
+	text-align: center;
+	padding-top: 110px; 
+	color: DimGrey; 
+	text-shadow: 1px 1px 1px #696969;
+	font-family: Arial, Sans-serif; 
+	font-size: 40px;
+}
+
+table, th, td {
+	text-align: center;
+	border: 1px Ivory;
+	border-collapse: collapse;
+}
+
+th {
+	background-color: CadetBlue;
+	color: Ivory;
+	font-family: Arial, Helvetica, sans-serif;;
+	font-size: 14px;
+}
+
+td {
+	background-color: GhostWhite;
+	font-size: 14px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+table {
+	margin-top: 25px;
+	margin-bottom: 20px;
+	width: 85%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: 'EB Garamond';
+    padding: 30px 30px 30px 100px;
+    margin-top: 150px;
+}
+
+.box {
+	float: right;
+	margin-right: 5px;
+	width: 300px;
+	border-radius: 40px;
+	height: 32px;
+	margin-top: 70px;
+}
+.input {
+	outline: none;
+	height: 35px;
+	width: 200px;
+	border-radius: 40px;
+	border: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+}

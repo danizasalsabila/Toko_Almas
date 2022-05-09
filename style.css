@@ -1,0 +1,17 @@
+.jumbotron {
+	background-color: DarkOliveGreen;
+	background-size: cover;
+	height: 690px;
+	margin-top: -90px;
+}
+.jumbotron .display-4 {
+	color: Ivory;
+	text-align: center;
+	text-shadow: 2px 2px 4px #696969;
+	font-size: 35pt;
+	font-family: Arial, Sans-serif;
+	margin-top: 210px;
+}
+.navbar-brand {
+	font-size: 18pt;
+}

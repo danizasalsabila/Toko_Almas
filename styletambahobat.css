@@ -1,0 +1,30 @@
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: Beige;
+}
+
+input {
+	font-size: 14px;
+	width: 400px;
+	border-style: groove;
+	border-color: Ivory;
+}
+
+label {
+	font-size: 14px;
+	font-family: Arial, Sans-serif;
+	color: Black;
+	font-weight: bold;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: 'EB Garamond';
+    padding: 30px 30px 30px 100px;
+    margin-top: 150px;
+}
+
+
